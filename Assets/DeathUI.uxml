@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="DeathScreen" style="flex-grow: 1; position: absolute; top: 0; left: 0; bottom: 0; right: 0;">
+        <ui:Label text="VOCÊ MORREU!"/>
+        <ui:Label text="Pressiona qualquer tecla para renascer" selectable="false" focusable="false"/>
+    </ui:VisualElement>
+</ui:UXML>
